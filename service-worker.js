@@ -1,4 +1,4 @@
-const CACHE_NAME = "personal-password-vault-v6";
+const CACHE_NAME = "personal-password-vault-v7";
 const ASSETS = [
   "./",
   "./personal-password-vault.html",
