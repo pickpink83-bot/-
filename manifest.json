@@ -1,7 +1,7 @@
 {
-  "name": "个人密码库",
-  "short_name": "密码库",
-  "description": "一个本地加密保存的个人密码库。",
+  "name": "账号密码本",
+  "short_name": "密码本",
+  "description": "一个本地加密保存的账号密码本。",
   "start_url": "./personal-password-vault.html",
   "scope": "./",
   "display": "standalone",
